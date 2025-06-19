@@ -1,1 +1,19 @@
-*{
+*{margin: 10px; padding:0}
+div.h1{
+    font-family: "Monsieur La Doulaise", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+div.nome{
+    font-family: "Ribeye Marrow", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+div.senha, label{
+    font-family: "Ribeye Marrow", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+div.esqueci{
+
+}
