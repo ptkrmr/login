@@ -1,19 +1,33 @@
-*{margin: 10px; padding:0}
+*{margin: 10px; padding: 0}
+
 div.h1{
-    font-family: "Monsieur La Doulaise", cursive;
-    font-weight: 400;
-    font-style: normal;
+	font-family: "Mountains of Christmas", serif;
+	font-weight: 400;
+	font-style: normal;
+	margin: px;
+	color: #FF69B4;
 }
-div.nome{
-    font-family: "Ribeye Marrow", serif;
-  font-weight: 400;
-  font-style: normal;
+ul{
+	background: #FFF0F5;
+	border-radius: 10px;
+	width: 450px;
+	height: 320px;
 }
-div.senha, label{
-    font-family: "Ribeye Marrow", serif;
-  font-weight: 400;
-  font-style: normal;
+label{
+	font-family: "Henny Penny", system-ui;
+	font-weight: 400;
+	font-style: normal;
+	display: flex;
+	color: #C71585;
+}
+div.esqueci:hover{
+	font-family: "Jura", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
 }
 div.esqueci{
-
+	font-family: "Berkshire Swash", serif;
+	font-weight: 400;
+	font-style: normal;
 }
